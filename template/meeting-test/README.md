@@ -18,4 +18,4 @@ https://us02web.zoom.us/j/88463943310?pwd=QVhKKzdvdFpJOFBnMjVXRVovelR4UT09
 會議 ID：884 6394 3310\
 密碼：177716
 
-這次的會議會講解 02 後端開發起手式 的作業練習，以及後續課程內容。
+會議說明內容
